@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "name":"Sambar Masala",
+        "price": 200,
+        "image": "image/1_Masala.png"
+    },
+    {
+        "id": 2,
+        "name":"Red Chilli Masala",
+        "price": 250,
+        "image": "image/2_Masala.png"
+    },
+    {
+        "id": 3,
+        "name":"Mutton masala",
+        "price": 290,
+        "image": "image/3_Masala.png"
+    },
+    {
+        "id": 4,
+        "name":"Kashmir chilli",
+        "price": 200,
+        "image": "image/2_Masala.png"
+    },
+    {
+        "id": 5,
+        "name":"Cheti mutton masala",
+        "price": 300,
+        "image": "image/3_Masala.png"
+    },
+    {
+        "id": 6,
+        "name":"Cheti sambhar masala",
+        "price": 200,
+        "image": "image/1_Masala.png"
+    }
+
+]
